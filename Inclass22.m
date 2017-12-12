@@ -1,5 +1,10 @@
 %Inclass 22
 clear all
+%GB comments
+1 100
+2 100
+overall 100
+
 
 %1. Consider the case of the auto-activating gene that we discussed in class
 %today. Make a bifurcation diagram for this system by varying the
